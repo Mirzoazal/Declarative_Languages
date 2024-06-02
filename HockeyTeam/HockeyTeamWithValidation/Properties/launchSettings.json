@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HockeyTeamWithValidation": {
+      "commandName": "Project",
+      "workingDirectory": "..\\"
+    }
+  }
+}

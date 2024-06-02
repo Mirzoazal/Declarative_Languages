@@ -1,0 +1,59 @@
+{
+  "Anniversaries": [
+    {
+      "Names": "Gabriela Perez",
+      "AnniversaryDate": "2021-10-26T00:00:00Z",
+      "AnniversaryType": "graduation",
+      "Description": "Gabriela Perez's High school graduation ceremony",
+      "Email": "gabrielaabp8@gmail.com",
+      "Address": {
+        "Municipality": "London",
+        "Province": "ON"
+      }
+    },
+    {
+      "Names": "Gerardo Perez",
+      "AnniversaryDate": "2008-07-12T00:00:00Z",
+      "AnniversaryType": "birthday",
+      "Description": "Day and place of birth",
+      "Email": "gerardoperezosorio@gmail.com",
+      "Address": {
+        "StreetAddress": "First Street, Princess Avenue",
+        "Municipality": "Calgary",
+        "Province": "AB",
+        "PostalCode": "N5V 0B6"
+      }
+    },
+    {
+      "Names": "Danielle Fisher, Jon Coleman",
+      "AnniversaryDate": "2010-01-07T00:00:00Z",
+      "AnniversaryType": "wedding",
+      "Description": "Dany and Jon's wedding",
+      "Address": {
+        "Municipality": "Mississauga",
+        "Province": "ON"
+      }
+    },
+    {
+      "Names": "Ana Maria Gonzales",
+      "AnniversaryDate": "2006-03-15T00:00:00Z",
+      "AnniversaryType": "death",
+      "Description": "Ana Maria's death anniversary",
+      "Address": {
+        "Municipality": "Quebec City",
+        "Province": "QC"
+      }
+    },
+    {
+      "Names": "David Echeverria, Kristen Smith",
+      "AnniversaryDate": "2021-09-05T00:00:00Z",
+      "AnniversaryType": "other",
+      "Description": "David and Kristen's divorce",
+      "Email": "daecheverria@gmail.com",
+      "Address": {
+        "Municipality": "Kitchener",
+        "Province": "ON"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "65+2N2SmV77BvvMOA3JDOi5ez/ofggSmH0p9rfS0JnWlTPz7pIFjnvaeBvDQDE0GCOTVyIRNIfwUEvkD+kDM8g==",
+  "success": true,
+  "projectFilePath": "C:\\$$CPA4th_SEM\\Programming Declarative Languages\\AnniversarryProject1\\Declarative_Languages\\Anniversarry\\HockeyTeamWithValidation\\Aniversarry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmirz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\rmirz\\.nuget\\packages\\newtonsoft.json.schema\\3.0.15\\newtonsoft.json.schema.3.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

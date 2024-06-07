@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HockeyTeam": {
+      "commandName": "Project",
+      "workingDirectory": "..\\"
+    }
+  }
+}
